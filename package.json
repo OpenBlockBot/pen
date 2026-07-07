@@ -27,9 +27,7 @@
       }
     },
     "extensionId": "pen",
-    "arch": [
-      "*"
-    ],
+    "arch": null,
     "iconURL": "./assets/pen.png",
     "description": {
       "formatMessage": {
